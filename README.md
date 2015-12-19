@@ -7,4 +7,5 @@ npm init --yes
 npm install babel-cli babel-core --save-dev
 npm install babel-preset-es2015 --save-dev
 npm install http-server --save-dev
+npm run babel
 ```
