@@ -13,5 +13,5 @@ open http:127.0.0.1:9000
 
 npm install babel-loader webpack --save-dev
 
-npm run webpack
+npm run webpack && open http:127.0.0.1:9000/ratefinder.html
 ```
