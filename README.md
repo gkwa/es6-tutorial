@@ -10,4 +10,8 @@ npm install http-server --save-dev
 npm run babel
 npm start
 open http:127.0.0.1:9000
+
+npm install babel-loader webpack --save-dev
+
+npm run webpack
 ```
