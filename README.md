@@ -3,6 +3,11 @@
 Start the tutorial [here](http://ccoenraets.github.io/es6-tutorial).
 
 ```
+npm install
+npm run webpack && open http:127.0.0.1:9000/ratefinder.html
+```
+
+```
 npm init --yes
 npm install babel-cli babel-core --save-dev
 npm install babel-preset-es2015 --save-dev
