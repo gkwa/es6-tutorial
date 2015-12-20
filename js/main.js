@@ -1,4 +1,5 @@
 var calculateMonthlyPayment = function (principal, years, rate) {
+    let monthlyRate=0;
     if (rate) {
         let monthlyRate = rate / 100 / 12;
     }
