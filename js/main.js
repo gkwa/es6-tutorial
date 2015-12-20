@@ -1,4 +1,4 @@
-var calculateMonthlyPayment = (principal, years, rate) => {
+let calculateMonthlyPayment = (principal, years, rate) => {
     let monthlyRate = 0;
     if (rate) {
         monthlyRate = rate / 100 / 12;
